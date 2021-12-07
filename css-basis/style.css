@@ -1,0 +1,17 @@
+
+body{
+    background-color: blue;
+}
+h1{
+    background-color: orange;
+}
+p{
+    background-color: palegreen;
+}
+.in-mijn-rij{
+    background-color: thistle;
+}
+#mijzelf {
+color: white; 
+text-decoration: underline;
+}
