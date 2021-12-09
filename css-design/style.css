@@ -12,3 +12,6 @@ div.kleur{
 p{
     border:5px dotted dodgerblue;
 }
+p + p {
+margin-top: 20px;
+}
