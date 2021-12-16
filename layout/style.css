@@ -1,0 +1,25 @@
+article {
+background-color: rgba(221, 13, 13, 0.788);
+}
+body{
+    background-color: rgb(30, 69, 241);
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.flex-container
+{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}
+main>div {
+width: 80%;
+}
