@@ -1,0 +1,55 @@
+body {
+    background-image: url("off\ white.jpg");
+    background-color: #cccccc;
+}
+
+.barredenav {
+    overflow: hidden;
+    background-color: #866d6d;
+}
+
+.barredenav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.barredenav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+.navv{
+    border-color: blue;
+    border-style: solid;
+    background-color: blue;
+    border-width: 0,2cm;
+    
+  }
+  .navv{
+      text-align: right;
+      font-family: 'Times New Roman', Times, serif;
+      color: cornsilk;
+      font-size: 25px;
+  }
+  .navvv{
+    border-color: blue;
+    border-style: solid;
+    background-color: blue;
+    border-width: 0,2cm;
+    
+  }
+  .navvv{
+      text-align: right;
+      font-family: 'Times New Roman', Times, serif;
+      color: cornsilk;
+      font-size: 25px;
+  }
