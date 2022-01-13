@@ -53,3 +53,16 @@ body {
       color: cornsilk;
       font-size: 25px;
   }
+  .nav{
+    border-color: blue;
+    border-style: solid;
+    background-color: blue;
+    border-width: 0,2cm;
+    
+  }
+  .nav{
+      text-align: right;
+      font-family: 'Times New Roman', Times, serif;
+      color: cornsilk;
+      font-size: 23px;
+  }
